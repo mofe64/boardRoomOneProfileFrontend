@@ -1,6 +1,6 @@
 import React, { useState,useRef } from 'react';
 
-const url = "http://localhost:8080/profiles";
+const url = "https://boardroomonebackend.herokuapp.com/profiles";
 
 
 const FormComponent = () => {
